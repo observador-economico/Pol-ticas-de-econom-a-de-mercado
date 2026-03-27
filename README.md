@@ -1,1 +1,3 @@
-# Pol-ticas-de-econom-a-de-mercado
+# Políticas-de-economía-de-mercado
+La implantación de una política de este tipo no es fácil en una economía de mercado incluso existiendo una verdadera voluntad política de realizarla. Debemos también tener en cuenta las dificultades con las que se enfrenta actualmente el plan francés, cuyos objetivos a menudo deben abandonarse en favor de la política de estabilización y de ciertos imperativos de la competencia extranjera y de la integración europea. 
+ Implementing this type of policy is not easy within a market economy, even when there is a genuine political will to do so. It is also important to consider the difficulties currently faced by the French plan, whose objectives often have to be abandoned in favor of stabilization policies and the demands of foreign competition and European integration.
